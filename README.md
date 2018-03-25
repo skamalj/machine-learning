@@ -1,5 +1,5 @@
 # Machine-Learning
-## Implementation
+## Note
 Excercises in this repository are direct implementation of Coursera course - Machine learning by Andrew Ng. 
 Actual course implementation is in Octave, I have tried this implemetation in Systemml on Spark running on Yarn.
 
